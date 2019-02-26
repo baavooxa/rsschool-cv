@@ -20,6 +20,7 @@ ___
 ### Code examples:  
   * Codewars solutions: [https://www.codewars.com/users/baavooxa/completed_solutions](https://www.codewars.com/users/baavooxa/completed_solutions)  
   * Solving tasks on Python: [http://pythontutor.ru/profile/oauth-google-118216608866982546984/](http://pythontutor.ru/profile/oauth-google-118216608866982546984/)  
+  * Rock, paper, scissors game: [https://github.com/baavooxa/rock-paper-scissors](https://github.com/baavooxa/rock-paper-scissors)  
   
 ### IT Education:  
 * **Codecademy:**  
