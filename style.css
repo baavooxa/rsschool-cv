@@ -1,0 +1,71 @@
+body {;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    width: 1024px;
+    height: 1000px;
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.info {
+    width: 50%;
+}
+
+.name {
+    width: 50%;
+    height: 350px;
+    background-image: url("./assets/img/photo.JPG");
+    background-position: 50%;
+}
+
+.name h1, .name p, h2 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding-top: 15px;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.objective {
+    margin: 20px auto;
+    padding: 2px;
+    width: 100%;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.contacts {
+    float: left;
+}
+
+li {
+    list-style: none;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.skills {
+    float: right;
+}
+
+.education {
+    
+}
+
+.english {
+    width: 50%;
+    text-align: center;
+}
