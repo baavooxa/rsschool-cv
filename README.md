@@ -1,1 +1,1 @@
-[https://baavooxa.github.io/rsschool-2019Q1-cv/cv](https://baavooxa.github.io/rsschool-2019Q1-cv/cv)
+[https://baavooxa.github.io/rsschool-cv/cv](https://baavooxa.github.io/rsschool-cv/cv)
